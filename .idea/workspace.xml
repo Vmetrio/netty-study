@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa7f51a7-300f-4565-837c-60ce6d633e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/org/meng/demo/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/chrome/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juc/src/main/java/org/meng/juc/TestLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juc/src/main/java/org/meng/juc/TestLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k2espg" beforeDir="false" afterPath="$PROJECT_DIR$/../k2espg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/src/main/java/com/meng/redis/common/RedisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/src/main/java/com/meng/redis/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis/src/main/java/com/meng/redis/controller/RedisController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reptile/src/main/java/com/meng/reptile/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reptile/src/main/java/com/meng/reptile/entity/Books.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd_service/src/main/java/cn/golaxy/core/common/enums/ExcelNameType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sd_service/src/main/java/cn/golaxy/core/common/enums/ExcelNameType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd_service/src/main/java/cn/golaxy/core/tool/utils/KmpMatchUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sd_service/src/main/java/cn/golaxy/core/tool/utils/KmpMatchUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../webinfo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yQndFcLCXGAP4rzvH5pnOvWg2G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.EchoClient">
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettystudy.echoclient.code.EchoClient" />
+      <module name="echo-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettystudy.echoclient.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettystudy.echoserver.code.EchoServer" />
+      <module name="echo-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettystudy.echoserver.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="echo-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nettystudy.echoclient.EchoClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="echo-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nettystudy.echoserver.EchoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="echoserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nettystudy.echoserver.EchoserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettybaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nettybase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nettystudy.nettybase.NettybaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EchoClient" />
+        <item itemvalue="Application.EchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa7f51a7-300f-4565-837c-60ce6d633e48" name="Default Changelist" comment="" />
+      <created>1632192765089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632192765089</updated>
+      <workItem from="1632192770781" duration="3640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632195985701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632195985701" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1632192803397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1632192803397" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1632196070670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632196070670" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1632192807971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632192807971" />
+    <state x="530" y="273" width="1251" height="704" key="new project wizard" timestamp="1632193635489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="273" width="1251" height="704" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1632193635489" />
+  </component>
+</project>
